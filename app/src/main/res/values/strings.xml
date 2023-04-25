@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="name">Name:</string>
+    <string name="Gender">Gender:</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Student_ID">Student ID:</string>
+    <string name="School">School:</string>
+    <string name="Email">Email:</string>
+    <String name="Phone">Phone:</String>
+</resources>
